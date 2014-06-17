@@ -1,0 +1,5 @@
+/* CSS Document */
+html, body,  {margin: 0px;padding: 0pxfont-size:62.5%;}
+#map-canvas{width:100%;height:700px;margin:0 auto}
+.info{background-color:#CCC;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}
+h1{color:#039;font-size:1.1rem} 
